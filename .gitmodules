@@ -1,0 +1,3 @@
+[submodule "spring_sales"]
+	path = spring_sales
+	url = https://github.com/m-zaguette/spring_sales.git
