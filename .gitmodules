@@ -4,3 +4,6 @@
 [submodule "angular_sales"]
 	path = angular_sales
 	url = https://github.com/m-zaguette/angular_sales.git
+[submodule "spring_clients"]
+	path = spring_clients
+	url = https://github.com/m-zaguette/spring_clients.git
