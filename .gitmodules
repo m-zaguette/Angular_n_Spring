@@ -16,3 +16,6 @@
 [submodule "spring_basic_learning"]
 	path = spring_basic_learning
 	url = https://github.com/m-zaguette/spring_basic_learning.git
+[submodule "angular_basic_learning_finished"]
+	path = angular_basic_learning
+	url = https://github.com/m-zaguette/angular_basic_learning.git
