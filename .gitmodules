@@ -7,3 +7,6 @@
 [submodule "spring_clients"]
 	path = spring_clients
 	url = https://github.com/m-zaguette/spring_clients.git
+[submodule "angular"]
+	path = angular
+	url = https://github.com/m-zaguette/angular.git
