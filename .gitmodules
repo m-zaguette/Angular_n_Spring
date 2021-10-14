@@ -19,3 +19,6 @@
 [submodule "angular_basic_learning_finished"]
 	path = angular_basic_learning
 	url = https://github.com/m-zaguette/angular_basic_learning.git
+[submodule "angular_clients"]
+	path = angular_clients
+	url = https://github.com/m-zaguette/angular_clients.git
