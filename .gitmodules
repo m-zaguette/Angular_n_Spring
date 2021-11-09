@@ -22,3 +22,6 @@
 [submodule "angular_clients"]
 	path = angular_clients
 	url = https://github.com/m-zaguette/angular_clients.git
+[submodule "spring_yaml_config"]
+	path = spring_yaml_config
+	url = https://github.com/m-zaguette/spring_yaml_config.git
